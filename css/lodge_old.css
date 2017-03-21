@@ -1,0 +1,290 @@
+@font-face {
+  font-family: 'NVTBahamasHeavyBold';
+  src: url('../fonts/NVTBahamasHeavyBold.eot?#iefix') format('embedded-opentype'),  url('../fonts/NVTBahamasHeavyBold.woff') format('woff'), url('../fonts/NVTBahamasHeavyBold.ttf')  format('truetype'), url('../fonts/NVTBahamasHeavyBold.svg#NVTBahamasHeavyBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+body
+{
+	font-family:'Arial' !important;
+}
+.madras_lodge_container
+{
+	width:100% !important;
+}
+.mrc_lodge_nav_head
+{
+	background:#E3DFDE;
+	border-bottom: 4px solid #D88A33;
+	
+}
+.mrc_lodge_nav_head .navbar-brand img
+{
+	width:290px !important;
+}
+.mrc_lodge_nav_head .nav > li > a {
+    position: relative;
+    display: block;
+    padding: 10px 12px !important;
+}
+.mrc_lodge_nav_head .navbar-brand
+{
+	padding:0px 0px !important; 
+}
+.mrc_lodge_nav_head .navbar
+{
+	margin-top: 19px;
+}
+.mrc_lodge_nav_head .navbar-default
+{
+	background:none !important;
+	border:none !important;
+	float:right;
+}
+.mrc_lodge_nav_head  nav ul li a
+{
+	outline:none !important;
+	font-size:15px;
+	font-weight:bold;
+	color:#000 !important;
+	text-transform:uppercase;
+}
+.navbar-inverse .navbar-nav > li > a {
+		color: #fff !important;
+	}
+nav ul li{
+        display: inline-block;
+        position: relative;
+        line-height: 21px;
+        text-align: left;
+    }
+    nav ul li a{
+        display: block;
+        padding: 8px 25px;
+        color: #333;
+        text-decoration: none;
+		font-size:18px;
+    }
+    nav ul li a:hover{
+        color: #fff;
+        background: #000;
+    }
+	nav ul li ul li a
+	{
+		font-size:15px;
+	}
+	nav ul li a
+	{
+		color:#fff;
+	}
+	nav ul li:hover a
+	{
+		color:#000 !important;
+		
+		
+	}
+	nav ul li ul li:hover a
+	{
+		background:#000 !important;
+		color:#fff !important;
+	}
+    nav ul li ul.dropdown-menu{
+        min-width: 100%; /* Set width of the dropdown */
+       
+        display: none;
+        position: absolute;
+        z-index: 999;
+        left: 0;
+    }
+    nav ul li:hover ul.dropdown-menu{
+        display: block;	/* Display the dropdown */
+    }
+    nav ul li ul.dropdown-menu li{
+        display: block;
+    }  
+/*header End */
+/*Home Page slider start*/
+.lodge_slide_list
+{
+	background-image:url("../img/banner1.png");
+	background-size:100% 100%;
+	height:355px;
+}
+.lodge_banner .bx-wrapper {
+    -moz-box-shadow:none !important;
+    -webkit-box-shadow:none !important;
+    box-shadow:none !important;
+    border:none !important;
+    background:none !important;
+}
+.lodge_row
+{
+	background-image:url("../img/banner_bg.png");
+	background-size:100% 100%;
+	height:355px;
+}
+.lodge_welcome
+{
+	padding-top: 8%;
+}
+.lodge_pad
+{
+	padding-left: 30px !important;
+	padding-right: 30px !important;
+}
+.lodgeslider li .lodge_welcome h3
+{
+	text-align: center;
+	text-transform: uppercase;
+	color: #FFF001;
+	font-size: 50px;
+	font-weight: bold;
+	width: 30%;
+	font-family: 'NVTBahamasHeavyBold';
+	
+
+}	
+/* Home Page Slider End */
+/*Mrc Lodge Home Content Section start */
+.mrc_contentlodge_bak
+{
+	background-image:url("../img/lodge_bg.png");
+	background-size:100% 100%;
+	border-top: 43px solid #ece7e7;
+}
+.mrc_content_container
+{
+	width:71% !important;
+}
+.gallop_section > div:nth-child(1) {
+    position: relative;
+    margin: 0 auto 16px !important;
+}
+.gallop_section .bx-wrapper
+{
+	-moz-box-shadow:none !important;
+	-webkit-box-shadow:none !important;
+	box-shadow:none !important;
+	border:none !important;
+	background:none !important;
+}
+.mrc_enterainment_details
+{
+	margin-bottom:10px;
+}
+.gallop_head
+{
+	padding-bottom:0px;
+}
+.gallop_head span
+{
+	color:#FA5D3F;
+	font-size:25px;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+.enteraiment_head
+{
+	padding-bottom:20px;
+}
+.enteraiment_head span
+{
+	color:#029F50;
+	font-size:25px;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+.footer_rights
+{
+	height:50px;
+}
+.mrc_advertisement
+{
+	background-image: url("../img/ad_bg.png");
+	background-size: 100% 100%;
+	height: 215px;
+}
+.ad_adv
+{
+	padding-top:10px;
+}
+{
+	padding-top:10px;
+}
+.footer_rights span
+{
+	text-transform: capitalize;
+	text-align: center;
+	font-weight: bold;
+	
+	color: #fff;
+	
+	top: 16px;
+	position: relative;
+}
+.footer_rights span font
+{
+	text-transform:uppercase !important;
+}
+.mrc_lodge_footer
+{
+	background:#333333;
+}
+/*Mrc Lodge Home Content Section End */
+/*Media Queries Start*/
+	@media screen and (min-width:250px) and (max-width:649px)
+	{
+		.mrc_advertisement
+		{
+			height:100%;
+		}
+		.lodgeslider li .lodge_welcome h3 
+		{
+			
+			font-size: 26px !important;
+			font-weight: bold;
+			width: 75%;
+			font-family: 'NVTBahamasHeavyBold';
+		}
+		.lodge_row {
+			
+			height: 100% !important;
+		}
+		.mrc_lodge_nav_head .navbar-default
+		{
+			float:left !important;
+			width:100%;
+		}
+		
+	}
+	@media screen and (min-width:650px) and (max-width:999px)
+	{
+		.mrc_advertisement
+		{
+			height:100%;
+		}
+		.lodgeslider li .lodge_welcome h3 
+		{
+			
+			font-size: 26px !important;
+			font-weight: bold;
+			width: 75%;
+			font-family: 'NVTBahamasHeavyBold';
+		}
+		.lodge_row {
+			
+			height: 100% !important;
+		}
+		.mrc_lodge_nav_head .navbar-default
+		{
+			float:left !important;
+			width:100%;
+		}
+		.gallop_section ul li div.row .col-md-3
+		{
+			width:50%;
+			float:left;
+			margin-bottom:5px;
+		}
+	}
+/*Media Queries Start End */

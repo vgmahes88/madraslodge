@@ -1,0 +1,1471 @@
+@font-face {
+  font-family: 'NVTBahamasHeavyBold';
+  src: url('../fonts/NVTBahamasHeavyBold.eot?#iefix') format('embedded-opentype'),  url('../fonts/NVTBahamasHeavyBold.woff') format('woff'), url('../fonts/NVTBahamasHeavyBold.ttf')  format('truetype'), url('../fonts/NVTBahamasHeavyBold.svg#NVTBahamasHeavyBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+body
+{
+	font-family:'Arial' !important;
+}
+.madras_lodge_container
+{
+	width:100% !important;
+}
+.mrc_lodge_nav_head
+{
+	background:#E3DFDE;
+	border-bottom: 4px solid #D88A33;
+	
+}
+.mrc_lodge_nav_head .navbar-brand img
+{
+	width:290px !important;
+}
+.mrc_lodge_nav_head .nav > li > a {
+    position: relative;
+    display: block;
+    padding: 10px 12px !important;
+}
+.mrc_lodge_nav_head .navbar-brand
+{
+	padding:0px 0px !important; 
+}
+.mrc_lodge_nav_head .navbar
+{
+	margin-top: 19px;
+}
+.mrc_lodge_nav_head .navbar-default
+{
+	background:none !important;
+	border:none !important;
+	float:right;
+}
+.mrc_lodge_nav_head  nav ul li a
+{
+	outline:none !important;
+	font-size:15px;
+	font-weight:bold;
+	color:#000 !important;
+	text-transform:uppercase;
+}
+.navbar-inverse .navbar-nav > li > a {
+		color: #fff !important;
+	}
+nav ul li{
+        display: inline-block;
+        position: relative;
+        line-height: 21px;
+        text-align: left;
+    }
+    nav ul li a{
+        display: block;
+        padding: 8px 25px;
+        color: #333;
+        text-decoration: none;
+		font-size:18px;
+    }
+    nav ul li a:hover{
+        color: #fff;
+        background: #000;
+    }
+	nav ul li ul li a
+	{
+		font-size:15px;
+	}
+	nav ul li a
+	{
+		color:#fff;
+	}
+	nav ul li:hover a
+	{
+		color:#000 !important;
+		
+		
+	}
+	nav ul li ul li:hover a
+	{
+		background:#000 !important;
+		color:#fff !important;
+	}
+    nav ul li ul.dropdown-menu{
+        min-width: 100%; /* Set width of the dropdown */
+       
+        display: none;
+        position: absolute;
+        z-index: 999;
+        left: 0;
+    }
+    nav ul li:hover ul.dropdown-menu{
+        display: block;	/* Display the dropdown */
+    }
+    nav ul li ul.dropdown-menu li{
+        display: block;
+    }  
+/*header End */
+/*Home Page slider start*/
+.lodge_slide_list
+{
+	background-image:url("../img/banner1.png");
+	background-size:100% 100%;
+	height:355px;
+}
+.lodge_banner .bx-wrapper {
+    -moz-box-shadow:none !important;
+    -webkit-box-shadow:none !important;
+    box-shadow:none !important;
+    border:none !important;
+    background:none !important;
+}
+.lodge_row
+{
+	background-image:url("../img/banner_bg.png");
+	background-size:100% 100%;
+	height:355px;
+}
+.lodge_welcome
+{
+	padding-top: 8%;
+}
+.lodge_pad
+{
+	padding-left: 30px !important;
+	padding-right: 30px !important;
+}
+.lodgeslider li .lodge_welcome h3
+{
+	text-align: center;
+	text-transform: uppercase;
+	color: #FFF001;
+	font-size: 50px;
+	font-weight: bold;
+	width: 30%;
+	font-family: 'NVTBahamasHeavyBold';
+	
+
+}	
+/* Home Page Slider End */
+/*Mrc Lodge Home Content Section start */
+.mrc_contentlodge_bak
+{
+	background-image:url("../img/lodge_bg.png");
+	background-size:100% 100%;
+	border-top: 43px solid #ece7e7;
+}
+.mrc_content_container
+{
+	width:71% !important;
+}
+.gallop_section > div:nth-child(1) {
+    position: relative;
+    margin: 0 auto 16px !important;
+}
+.gallop_section .bx-wrapper
+{
+	-moz-box-shadow:none !important;
+	-webkit-box-shadow:none !important;
+	box-shadow:none !important;
+	border:none !important;
+	background:none !important;
+}
+.mrc_enterainment_details
+{
+	margin-bottom:10px;
+}
+.gallop_head
+{
+	padding-bottom:0px;
+}
+.gallop_head span
+{
+	color:#FA5D3F;
+	font-size:25px;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+.enteraiment_head
+{
+	padding-bottom:20px;
+}
+.enteraiment_head span
+{
+	color:#029F50;
+	font-size:25px;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+.footer_rights
+{
+	height:50px;
+}
+.mrc_advertisement
+{
+	background-image: url("../img/ad_bg.png");
+	background-size: 100% 100%;
+	height: 215px;
+}
+.ad_adv
+{
+	padding-top:10px;
+}
+{
+	padding-top:10px;
+}
+.footer_rights span
+{
+	text-transform: capitalize;
+	text-align: center;
+	font-weight: bold;
+	
+	color: #fff;
+	
+	top: 16px;
+	position: relative;
+}
+.footer_rights span font
+{
+	text-transform:uppercase !important;
+}
+.mrc_lodge_footer
+{
+	background:#333333;
+}
+.bx-wrapper
+{
+	-moz-box-shadow:none !important;
+	-webkit-box-shadow:none !important;
+	box-shadow:none !important;
+	border:none !important;
+	background:none !important;
+}
+.bx-wrapper
+{
+	max-width:100%;
+}
+/*Mrc Lodge Home Content Section End */
+/*Media Queries Start*/
+	@media screen and (min-width:250px) and (max-width:649px)
+	{
+		.mrc_advertisement
+		{
+			height:100%;
+		}
+		.lodgeslider li .lodge_welcome h3 
+		{
+			
+			font-size: 26px !important;
+			font-weight: bold;
+			width: 75%;
+			font-family: 'NVTBahamasHeavyBold';
+		}
+		.lodge_row {
+			
+			
+			
+		}
+		.mrc_lodge_nav_head .navbar-default
+		{
+			float:left !important;
+			width:100%;
+		}
+		.lodge_slide_list
+		{
+			
+		}
+		.gallop_head span
+		{
+			font-size:15px;
+		}
+		
+		
+		
+	}
+	@media screen and (min-width:650px) and (max-width:999px)
+	{
+		.mrc_advertisement
+		{
+			height:100%;
+		}
+		.lodgeslider li .lodge_welcome h3 
+		{
+			
+			font-size: 26px !important;
+			font-weight: bold;
+			width: 75%;
+			font-family: 'NVTBahamasHeavyBold';
+		}
+		.lodge_row {
+			
+			height: 100% !important;
+		}
+		.mrc_lodge_nav_head .navbar-default
+		{
+			float:left !important;
+			width:100%;
+		}
+		.gallop_section ul li div.row .col-md-3
+		{
+			width:50%;
+			float:left;
+			margin-bottom:5px;
+		}
+	}
+	@media only screen and (max-width:1280px) 
+	{
+	
+		.mrc_lodge_nav_head .nav > li > a {
+			position: relative;
+			display: block;
+			padding: 9px 6px !important;
+		}
+		.mrc_lodge_nav_head nav ul li a {
+			outline: none !important;
+			font-size: 14px !important;
+			font-weight: bold;
+			color: #000 !important;
+			text-transform: uppercase;
+		}
+	}
+	@media only screen and (max-width:1366px) 
+	{
+	
+		.mrc_lodge_nav_head .nav > li > a {
+			position: relative;
+			display: block;
+			padding: 9px 11px;
+		}
+		.mrc_lodge_nav_head nav ul li a {
+			outline: none !important;
+			font-size: 14px !important;
+			font-weight: bold;
+			color: #000 !important;
+			text-transform: uppercase;
+		}
+	}
+/*Media Queries Start End */
+/*Mrc Lodge party Hall*/
+	.mrc_party_hall_banner
+	{
+		background-image:url("../img/party_banner.png");
+		background-size:100% 100%;
+		height:175px;
+	}
+	.part_hall_welcome
+	{
+		padding-top:1%;
+	}
+	.part_hall_welcome h3
+	{
+		text-align: center;
+		text-transform: uppercase;
+		color: #FFF001;
+		font-size: 50px;
+		font-weight: bold;
+		width: 30%;
+		font-family: 'NVTBahamasHeavyBold';
+	}
+	.mrc_partyhall_bak
+	{
+		background-image:url("../img/party_bg.png");
+		background-size:100% 100%;
+	}
+	.party_hall_gallery
+	{
+		height: 310px;
+		background:#fff;
+		padding:6px;
+		
+	}
+	.party_container
+	{
+		width:73% !important;
+	}
+	.party_hall_gallery .col-md-4
+	{
+		padding-left:2px;
+		padding-right:2px;
+	}
+	.bot
+	{
+		margin-top:3px;
+	}
+	.party_hall_tarif
+	{
+		margin-bottom:40px;
+	}
+	.party_hall_tarif table 
+	{
+		background:#fff;
+		
+	}
+	.party_hall_tarif table tr:nth-child(1)
+	{
+		background:#CC3500;
+	}
+	.party_hall_tarif table tr:nth-child(1) td
+	{
+		color:#fff;
+	}
+	.party_hall_tarif table tr
+	{
+		line-height:35px;
+	}
+	.party_hall_tarif table tr td
+	{
+		padding:5px;
+		text-align:center;
+		font-weight:bold;
+	}
+	.mrc_column
+	{
+		padding-left:0px !important;
+		padding-right:0px !important;
+	}
+	.party_hall_tarif > table > tbody > tr > td:nth-child(1)
+	{
+		text-align:left !important;
+	}
+	.food_category
+	{
+		border:1px solid #000;
+	}
+	.logge_rate
+	{
+		background:#ac3a21;color:#fff;text-align:center !important;
+	}
+	.bar_hall
+	{
+		background-image:url("../img/bar_banner.png");
+		background-size:100% 100%;
+		height:175px;
+	}
+	.content_win
+	{
+		background-image: url("../img/party_bg.png");
+		background-size:100% 100%;
+	}
+	/*.mrc_bar_bak
+	{
+		background-image:url("../img/bar_bg.png");
+		background-size:100% 100%;
+		height:350px;
+	}*/
+	.bar_tpl table tr td
+	{
+		text-align:center;
+		border: 0px !important;
+	}
+	.bar_tpl table
+	{
+		background: #fff;
+		border-radius: 10px;
+		border: none;
+		margin: 4px;
+		border-radius: 15px;
+		border-collapse: separate !important;
+	}
+	.bar_tpl table tr 
+	{
+		line-height:51px;
+		border-bottom:1px solid #000;
+	}
+	.bar_tpl table tr 
+	{
+		font-weight:bold;
+	}
+	.bar_tpl > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(4),.bar_tpl > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(1)
+	{
+		background: rgb(68, 37, 1) none repeat scroll 0% 0%;
+		color: rgb(255, 255, 255);
+		
+	}
+	.bar_tpl > table > tbody > tr > td > table > tbody > tr
+	{
+		line-height:30px !important;
+		border-bottom:none !important;
+	}
+	
+	.bar_tpl > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(5) > td:nth-child(1) > table:nth-child(1) > tbody:nth-child(1) > tr > td:nth-child(2)
+	{
+		padding-top:15px;
+	}
+	
+	.bar_inner_tpl tr td
+	{
+		text-align:left !important;
+	}
+	.bar_tpl > table > tbody > tr > td > table > tbody > tr > td:nth-child(1)
+	{
+		width:10%;
+	}
+	.bar_tpl > table > tbody > tr > td > table > tbody > tr > td > i
+	{
+		font-size: 24px;
+	}
+	.bar 
+	{
+		background-image:url("../img/bar_bg2.png");
+		background-size:100% 100%;
+	}
+	.bar_container,.commitee_con
+	{
+		width:71.5% !important;
+		background: #635d5d;
+	}
+	.bar_img img
+	{
+		height:175px !important;
+		margin-bottom: 2.5px;
+	}
+	.inner_col
+	{
+		padding-left:3px !important;
+		padding-right:3px !important;
+		
+	}
+	.commitee
+	{
+		background-image:url("../img/committee_banner.png");
+		background-size:100% 100%;
+		height:175px;
+	}
+	.commite > table
+	{
+		border:0 none !important;
+		
+	}
+	.commite > table > tbody > tr > td  > table > tbody  > tr:nth-child(1)
+	{
+		background-image:url("../img/committee_blue bg.png");
+		background-size:100% 100%;
+		color:#fff !important;
+	}
+	.commite table tr
+	{
+		line-height:40px;
+		background-image:url("../img/committee_glass bg.png");
+		background-size:100% 100%;
+	}
+	.commite table tr td
+	{
+		font-size:16px;
+		font-weight:bold;
+		padding:6px;
+	}
+	.coffeeshop
+	{
+		background-image:url("../img/coffeshop_banner.png");
+		background-size:100% 100%;
+		height:175px;
+	}
+	.coffeeshop_head
+	{
+		background-image:url("../img/coffeshop_ban.png");
+		background-size:100% 100%;
+		height:343px;
+	}
+	.timing h3
+	{
+		background-image:url("../img/time_bg.png");
+		color: rgb(255, 255, 255);
+		text-transform: uppercase;
+		padding: 4px;
+		margin-top:0px;
+		background-repeat:no-repeat;
+		
+		
+	}
+	.shop_deatisl
+	{
+		padding:25px;
+	}
+	.timing h5
+	{
+		color:#fff;
+	}
+	.timing table
+	{
+		
+	}
+	.timing table tr
+	{
+		line-height:40px;
+	}
+	.timing table tr td
+	{
+		line-height:25px;
+		
+	}
+	.timing table tr td
+	{
+		color:#fff;
+		font-weight:bold;
+		border: none;
+	}
+	.timing  > table > tbody> tr > td:nth-child(1)
+	{
+		width:8%;
+		float: left;
+	}
+	.coffee_row
+	{
+		background:#fff;
+		padding:7px;
+	}
+	.card_room
+	{
+		background-image:url("../img/cardroom_banner.png");
+		background-size:100% 100%;
+		height:175px;
+	}
+	.card_room_tpl
+	{
+		background-image:url("../img/cardroom_bg2.png");
+		background-size:100% 100%;
+		height:230px;
+	}
+	.card_room_tpl table
+	{
+		width:100%;
+		border:none;
+		
+	}
+	.card_room_tpl table tr
+	{
+		line-height:30px;
+		padding-bottom:5px;
+	}
+	.card_room_tpl table tr td
+	{
+		border:0px !important;
+		font-weight:bold;
+		padding-left: 28px;
+		color:#fff;
+		border: none !important;
+		padding-bottom: 7px;
+		
+	}
+	.card_room_tpl > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(1)
+	{
+		background-image:url("../img/cardroom_green row.png");
+		background-size:100% 100%;
+		height:45px;
+		text-align:center;
+	}
+	.card_room_tpl > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(2)
+	{
+		background:#fff;
+	}
+	.card_room_tpl > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(2) > td
+	{
+		text-align:center;
+		color: #000 !important;
+	}
+	.affliation
+	{
+		background-image:url("../img/affiliation_banner.png");
+		background-size:100% 100%;
+		height:175px;
+	}
+	.affilation_tpl table
+	{
+		border:none;
+		background: #fff;
+	}
+	.affilation_tpl table tr 
+	{
+		line-height:40px;
+		background:#B5D1B6;
+		border-bottom:1px solid #000;
+	}
+	.affilation_tpl table tr td
+	{
+		border:none;
+		text-align:left;
+	}
+	.affilation_tpl > table:nth-child(1) > tbody:nth-child(1) > tr > td:nth-child(1)
+	{
+		width:5%;
+		padding-left: 10px;
+	}
+	td.table-header
+	{
+		color:#fff;
+		font-weight:bold;
+	}
+	.affilation_tpl > table:nth-child(1) > tbody:nth-child(1) > tr > td:nth-child(4)
+	{
+		padding-right:20px;
+	}
+	.affilation_tpl > table > tbody > tr:nth-child(2)
+	{
+		background-image:url("../img/affiliation_head bg.png");
+		background-size:80% 100%;
+		height:75px;
+		background-repeat:no-repeat;
+		
+	}
+	.affilation_tpl > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(3)
+	{
+		background-image:url("../img/affiliation_green row.png");
+		background-size:100% 100%;
+		height:45px;
+	}
+	body > div > div:nth-child(3) > div > div > div:nth-child(1) > div > div > div > table > tbody > tr:nth-child(3) > td:nth-child(4)
+	{
+		width:20%;
+	}
+	.content_lawn_win
+	{
+		background-image:url("../img/background.png");
+		background-size:100%;
+	}
+	.lawn_banner
+	{
+		background-image:url("../img/lawn-mini_banner.png");
+		background-size:100% 100%;
+		height:175px;
+	}
+	.lawn_tpl table
+	{
+		border: 1px solid #fff;
+		width:100%;
+	}
+	.lawn_tpl table tr td
+	{
+			text-align:left;
+			border:none;
+			padding: 6px;
+			font-weight:bold;
+	}
+	.lawn_tpl table tr
+	{
+		line-height: 19.5px;
+		background:#F1F1F1;
+		border-bottom:1px solid #fff;
+	}
+	.lawn_tpl table tr:nth-child(1)
+	{
+		background-image:url("../img/lawn-green-bg.png");
+		background-size:100% 100%;
+	}
+	.lawn_tpl > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(1),.lawn_tpl > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(2),
+	.lawn_tpl > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(3) > td:nth-child(1),.lawn_tpl > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(3) > td:nth-child(2)
+	{
+		border:1px solid #fff;
+	}
+	.lawn_tpl table tr td.table-header 
+	{
+		text-align:center;
+	}
+	.mrc_lawn
+	{
+		padding-left:6px !important;
+	}
+	.lawn_sub img
+	{
+		margin-bottom:3px;
+	}
+	.room_tpl_header
+	{
+		background-image:url("../img/orange_row.png");
+		background-size:100% 100%;
+		height:36px;
+	}
+	.room_tpl_header h4
+	{
+		text-align: center;
+		color: #fff;
+		font-size: 23.5px;
+		text-transform: uppercase;
+		font-weight: bold;
+		padding-top:4px;
+	}
+	.rooms_banner
+	{
+		background-image:url("../img/mini_banner.png");
+		background-size:100% 100%;
+		height:175px;
+	}
+	.rooms_tpl
+	{
+		width:100%;
+		margin-bottom: 10px;
+	}
+	.rooms_tpl > tbody  > tr
+	{
+		line-height:35px;
+	}
+	.rooms_tpl > tbody  > tr:nth-child(1)
+	{
+		background:#292929;
+	}
+	.rooms_tpl > tbody  > tr:nth-child(1) > td
+	{
+		font-weight:bold;
+		color:#fff;
+		font-size:16px;
+	}
+	.rooms_tpl > tbody  > tr:nth-child(2)
+	{
+		background:#ECE8E5;
+	}
+	.rooms_tpl > tbody  > tr:nth-child(2) > td
+	{
+		font-weight:bold;
+		color:#000;
+		font-size:16px;
+	}
+	.rooms_tpl > tbody  > tr:nth-child(2) > td:nth-child(1)
+	{
+		border-right:1px solid #000;
+		
+	}
+	.rooms_tpl > tbody  > tr > td
+	{
+		text-align:center !important;
+	}
+	.rooms_tpl1
+	{
+		width:50%;
+		margin-bottom: 10px;
+	}
+	.rooms_tpl1 tbody tr
+	{
+		line-height:35px;
+	}
+	.rooms_tpl1 > tbody:nth-child(1) > tr:nth-child(1)
+	{
+		background:none !important;
+	}
+	.rooms_tpl1 tbody tr td.table-header
+	{
+		float:right;
+		background-image:url("../img/tariff_bg.png");
+		background-size:100% 100%;
+		padding: 10px;
+		width: 100%;
+		text-align: center;
+		
+	}
+	.rooms_tpl1 tbody tr:nth-child(even)
+	{
+		background:#D7EEFC;
+	}
+	.rooms_tpl1 tbody tr:nth-child(odd)
+	{
+		background:#B7E4F9;
+	}
+	.rooms_tpl1 tbody tr td
+	{
+		font-weight:bold;
+		padding-left: 13px;
+		text-transform:uppercase;
+	}
+	.rooms_tpl1 > tbody:nth-child(1) > tr:nth-child(8)
+	{
+		background:none !important;
+	}
+	.rooms_tpl1 > tbody:nth-child(1) > tr:nth-child(8) > td:nth-child(1)
+	{
+		background-image:url("../img/all charge_bg.png");
+		background-size:100% 100%;
+		padding:10px;
+		color:#fff;
+	}
+	.rooms_tarif .col-md-12
+	{
+		background:#E0D9D2;
+	}
+	.restarant_banner
+	{
+		background-image:url("../img/res_mini_banner.png");
+		background-size:100% 100%;
+		height:175px;
+	}
+	.mrc_res
+	{
+		padding-right:6px !important;
+	}
+	.restarant table
+	{
+		width:100%;
+		background:#fff;
+		margin-bottom:20px;
+	}
+	.restarant table tr th.table-header
+	{
+		background:#232323 !important;
+		text-align:center;
+		color:#fff;
+		font-weight:bold;
+		font-size:16px;
+		
+	}
+	.restarant table tr td
+	{
+		font-weight:bold;
+		font-size:15px;
+	}
+	.mrc_lawn-res
+	{
+		padding-right:5px !important;
+	}
+	.thearter_banner
+	{
+		background-image:url("../img/theatremini_banner.png");
+		background-size:100% 100%;
+		height:175px;
+	}
+	.theater_middle
+	{
+		margin-top: 15%;
+	}
+	.col-off-set-col
+	{
+		padding-left:3px !important;
+		padding-right:3px !important;
+	}
+	.sports_column_off_set
+	{
+		padding-right:0px !important;
+		padding-left:6px !important;
+	}
+	.mrc_sports_img
+	{
+		margin-bottom:3px;
+	}
+	.tennis_mrc_time
+	{
+		background-image:url("../img/lawn-green-bg.png");
+		background-size:100% 100%;
+		
+	}
+	.tennis_mrc_time h4
+	{
+		background:#01991E;
+		padding:10px;
+		color:#fff;
+		text-transform:uppercase;
+		margin-top:0px;
+		text-align:center;
+		margin-bottom: 0px;
+	}
+	.tennis
+	{
+		width:100%;
+		background:#fff;
+	}
+	.tennis tbody tr
+	{
+		line-height: 34px;
+	}
+	.tennis tbody tr td
+	{
+		text-align:center;
+		font-size:15px;
+		font-weight:bold;
+		text-transform:uppercase;
+	}
+	.tennis tbody tr td:nth-child(1)
+	{
+		border-right:1px solid #000;
+	}
+	.tennis_tarf
+	{
+		width:100%;
+	}
+	.tennis_tarf tr
+	{
+		line-height:48px;
+	}
+	.tennis_tarf tr td
+	{
+		font-weight:bold;
+		font-size:14px;
+		text-transform:uppercase;
+		padding-left: 13px;
+		color:#fff;
+	}
+	.tennis_tarf tr:nth-child(1)
+	{
+		background:#212121 !important;
+		
+		
+	}
+	
+	.tennis_tarf tr:nth-child(1) td
+	{
+		text-align:center;
+		color:#fff;
+		font-weight:bold;
+		font-size:14px;
+		
+	}
+	.tennis_tarf tr td:nth-child(1)
+	{
+		border-right:1px solid #fff;
+	}
+	.tennis_tarf tr:nth-child(even)
+	{
+		background:#4F575E;
+	}
+	.tennis_tarf tr:nth-child(odd)
+	{
+		background:#2C333B;
+	}
+	.mrc_col_off2
+	{
+		padding-left: 1px !important;
+		padding-right:1px !important;
+	}
+	.tarf_in
+	{
+		border:none !important;
+	}
+	.all_charge_tpl
+	{
+		background: rgb(33, 33, 33) none repeat scroll 0% 0%;
+		width: 100%;
+	}
+	.all_charge_tpl tbody tr
+	{
+		line-height:24px;
+	}
+	.all_charge_tpl tbody tr td
+	{
+		text-align:center;
+		font-weight:bold;
+		color:#fff;
+		text-transform:uppercase;
+		
+	}
+	.tennis_banner
+	{
+		background-image:url("../img/tennismini_banner.png");
+		background-size:100% 100%;
+		height:175px;
+	}
+	.badmitton_banner
+	{
+		background-image:url("../img/shuttle.png");
+		background-size:100% 100%;
+		height:175px;
+	}
+	.snokker_banner
+	{
+		background-image:url("../img/smini_banner.png");
+		background-size:100% 100%;
+		height:175px;
+	}
+	.tennis_tarif
+	{
+		background: rgb(79, 87, 94) none repeat scroll 0% 0%;
+	}
+	.squash_banner
+	{
+		background-image:url("../img/sqauashmini banner.png");
+		background-size:100% 100%;
+		height:175px;
+	}
+	.gym_banner
+	{
+		background-image:url("../img/gymmini_banner.png");
+		background-size:100% 100%;
+		height:175px;
+	}
+	.gym_tarf
+	{
+		width:100%;
+	}
+	.gym_mrc_time,.gym_tarf > tbody:nth-child(1) > tr:nth-child(1)
+	{
+		background-image:url("../img/gymred_bg.png");
+		background-size:100% 100%;
+		height:30px;
+		border: 1px solid #5a5858;
+	}
+	.gym_mrc_time h4
+	{
+		text-align: center;
+		text-transform: uppercase;
+		color: #fff;
+		font-size: 20px;
+		margin-top: 0px;
+		padding-top: 2px;
+		font-weight: bold;
+		
+	}
+	.gym_left
+	{
+		padding-left:0px !important;
+	}
+	.gym_right
+	{
+		padding-right:0px !important;
+	}
+	.gtm_tpl
+	{
+		width:100%;
+	}
+	.gtm_tpl > tbody > tr:nth-child(1)
+	{
+		background:#2C2C2C;
+		line-height:35px;
+	}
+	.gtm_tpl > tbody > tr:nth-child(2)
+	{
+		background:#161817;
+		line-height:35px;
+	}
+	.gtm_tpl > tbody > tr:nth-child(2) > td
+	{
+		padding:5px;
+		color:#fff;
+		font-size:15px;
+		font-weight:bold;
+		text-align:center;
+		border: 1px solid #5a5858;
+	}
+	
+	.gtm_tpl > tbody > tr:nth-child(1) > td
+	{
+		text-align:center;
+		color:#fff;
+		font-size:15px;
+		font-weight:bold;
+		border: 1px solid #5a5858;
+	}
+	
+	.gym_tarf
+	{
+		width:100%;
+		
+	}
+	.gym_tarf tr:nth-child(1) > td:nth-child(1)
+	{
+		text-align:center;
+		color:#fff;
+		font-weight:bold;
+		border-right:1px solid #fff;
+		font-size:20px;
+	}
+	.gym_tarf tr
+	{
+		line-height:36.3px;
+	}
+	.gym_tarf tr:nth-child(even)
+	{
+		background:#161817;
+	}
+	.gym_tarf tr td
+	{
+		font-size:15px;
+		font-weight:bold;
+		color:#fff;
+		padding-left:10px;
+		border: 1px solid #5a5858;
+	}
+	.gym_tarf tr:nth-child(odd)
+	{
+		background:#2C2C2C;
+	}
+	.gym_all_charge_tpl tbody tr td {
+		    text-align: center;
+			font-weight: bold;
+			color: #D5CCCC;
+			text-transform: uppercase;
+			padding: 10px;
+			font-size: 15px;
+		
+	}	
+	.gym_all_charge_tpl
+	{
+		background:#2C2C2C;
+		width:100%;
+	}
+	.gym-col-off-set-col{
+		padding-left:2px !important;
+		padding-right:2px !important;
+	}
+	.gallery_row
+	{
+		margin-bottom:45px;
+	}
+	.swimming_banner
+	{
+		background-image:url("../img/swimmingmini_banner.png");
+		background-size:100% 100%;
+		height:175px;
+	}
+	.swimming_container
+	{
+		width: 73.5% !important;
+	}
+	.mrc_swimming
+	{
+		padding-left:2px !important;
+		padding-right:2px !important;
+	}
+	.swimming_tpl > tbody:nth-child(1) > tr:nth-child(1)
+	{
+		background:#fff;
+	}
+	.swimming_tpl > tbody:nth-child(1) > tr:nth-child(1) > td
+	{
+		color:#000 !important;
+	}
+	.swimming_tpl
+	{
+		width:100%;
+	}
+	.swimming_tpl tr
+	{
+		background:#3F3F3F;
+		line-height:30px;
+	}
+	.swimming_tpl > tbody:nth-child(1) > tr:nth-child(3)
+	{
+		
+	}
+	.swimming_tpl tr td
+	{
+		text-align:center;
+		text-transform:uppercase;
+		color:#fff;
+		font-size:15px;
+		font-weight:bold;
+		border: 1px solid #fff;
+	}
+	.swimming_tpl > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(1)
+	{
+		width: 435px !important;
+	}
+	.swimming-left
+	{
+		
+	}
+	.swimming-left table
+	{
+		width: 100%;
+		background: #E1E1E1;
+	}
+	.swimming-left table tr
+	{
+		line-height:39px;
+		border: 1px solid #ccc;
+	}
+	.swimming-left table tr td
+	{
+		
+		font-weight:bold;
+		font-size:13px;
+		padding-left: 10px
+	}
+	.swimming-left table tr td:nth-child(2)
+	{
+		padding-right:5px;
+		text-align:left !important;
+	}
+	.swimming-left > table > tbody  > tr:nth-child(1) 
+	{
+		background:#037BB8;
+	}
+	.swimming-left > table > tbody  > tr:nth-child(1)  > td
+	{
+		text-align:center;
+		font-weight:bold;
+		color:#fff;
+		font-size:15px;
+	}
+	.swimming-left > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(1) > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(1)
+	{
+		text-align:center !important;
+		color:#fff;
+		font-weight:bold;
+		font-size:15px;
+	}
+	.swimming-right table tr:nth-child(1)
+	{
+		background: rgb(202, 91, 0) none repeat scroll 0% 0%;
+	}
+	
+	.swimming-right
+	{
+		background:#E8E8E8;
+	}
+	.swimming-right tr
+	{
+		line-height: 23px;
+		border: 1px solid #ccc;
+	}
+	.swimming-right > table > tbody > tr:nth-child(1) > td:nth-child(1)
+	{
+		text-align:center;
+		color:#fff;
+	}
+	.swimming-right table tr td
+	{
+		padding:7px;
+		font-weight:bold;
+		font-size:13px;
+	}
+	.mrc_swimming_os
+	{
+		padding-left:0px !important;
+		padding-right:0px !important;
+	}
+	.swimming-right > table > tbody > tr > td:nth-child(1)
+	{
+		width:10px;
+	}
+	.swimming-right tr th
+	{
+		padding: 8px;
+		text-align: center;
+		color: rgb(255, 255, 255);
+	}
+	.member_banner
+	{
+		background-image:url("../img/member-mini_banner.png");
+		background-size:100% 100%;
+		height:175px;
+	}
+	.member_con
+	{
+		background:#BFBFBF !important;
+		width: 71.5% !important;
+	}
+	.members table
+	{
+		background:#EFEFEF;
+	}
+	.members table tr
+	{
+		line-height:35px;
+		
+	}
+	.members table tr td:nth-child(1)
+	{
+		width: 31%;
+		
+	}
+	.members table tr td.table-header
+	{
+		text-align:center;
+	}
+	.members table tr td
+	{
+		font-size:14px;
+		font-weight:bold;
+		padding-left: 15px !important;
+	}
+	.table-condensed > tbody  > tr  > td > table:nth-child(1) > tbody  > tr:nth-child(1) > td:nth-child(1)
+	{
+		background-image:url("../img/members_curve.png");
+		background-size:100% 100%;
+		background-repeat:no-repeat;
+		height:35px;
+		border:none !important;
+		text-align:left !important;
+	}
+	.table-condensed > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(1) > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(1),
+	.table-condensed > tbody:nth-child(1) > tr:nth-child(3) > td:nth-child(1) > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(1)
+	{
+		width:20%;
+	}
+	
+	.table-condensed > tbody:nth-child(1) > tr:nth-child(4) > td:nth-child(1) > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(1),
+	.table-condensed > tbody:nth-child(1) > tr:nth-child(5) > td:nth-child(1) > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(1),
+	.table-condensed > tbody:nth-child(1) > tr:nth-child(6) > td:nth-child(1) > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(1)
+	
+	{
+			width:66%;
+			border:none !important;
+			text-align:left !important;
+	}
+	.table-condensed > tbody:nth-child(1) > tr:nth-child(8) > td:nth-child(1) > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(2),
+	.table-condensed > tbody:nth-child(1) > tr:nth-child(9) > td:nth-child(1) > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(2)
+	{
+		background:#232323;
+	}
+	.table-condensed > tbody  > tr  > td  > table  > tbody  > tr,
+	.table-condensed > tbody  > tr  > td  > table  > tbody  > tr  > td:nth-child(1),
+	.table-condensed > tbody  > tr  > td  > table  > tbody  > tr  > td:nth-child(2),
+	.table-condensed > tbody:nth-child(1) > tr:nth-child(9) > td:nth-child(1) > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(3) > td:nth-child(3)
+	
+	{
+		border:1px solid #ccc;
+		
+	}
+	.details_head
+	{
+		font-size:16px !important;
+		text-align:center;
+	}
+	.members
+	{
+		margin: 19px;
+	}
+	.mrc_upcpgrm
+	{
+		width:100%;
+	}
+	.mrc_upcpgrm tr td
+	{
+		text-transform:capitalize;
+		font-weight:bold;
+		font-size:12px;
+		
+	}
+	
+	.mrc_upcpgrm tr 
+	{
+		
+	}
+	.mrc_upcpgrm tr td
+	{
+		border:1px solid #000;
+	}
+	
+	.mrc_upcpgrm tr td:nth-child(3)
+	{
+		text-align:center;
+	}
+	
+	.mrc_upcpgrm tr
+	{
+		line-height:50px;
+	}
+	.mrc_upcpgrm tr td
+	{
+		
+	}
+	.ent_prm .bx-viewport
+	{
+		height:259px !important;
+	}
+	.lodge_ent
+	{
+		background:#074263;
+		color: #fff;
+		padding: 4px;
+	}
+	.lodge_ent h4
+	{
+		 margin-top: 0px !important;
+			margin-bottom: 0px !important;
+			padding: 0px;
+			font-weight: bold;
+			text-transform: uppercase;
+	}
+	.ent_highlighted
+	{
+		background:#097BBA;
+		color: #fff;
+		text-align:center;
+		font-size:15px !important;
+		text-transform:uppercase !important;
+	}
+/*Mrc Lodge party Hall End*/
+
